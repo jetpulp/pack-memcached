@@ -1,25 +1,25 @@
 {
-	"name": "memcached",
-	"types": ["pack"],
-	"version": "1.4",
-	"homepage": "https://github.com/addonline/pack-memcached",
-	"author": "Romain THERRAT (AddOnline)",
-	"description": "Memcached checks",
-	"contributors": [
-	  {
-		"name": "Romain THERRAT (AddOnline)",
-		"email": "romain42@gmail.com"
-	  },
-	],
-	"repository": "https://github.com/addonline/pack-memcached",
-	"keywords": [
-	  "pack",
-	  "database",
-	  "memcached"
-
-	],
-	"dependencies": {
-	  "shinken": ">=1.4"
-	},
-	"license": "AGPL"
+  "name": "memcached",
+  "types": ["pack"],
+  "version": "1.4",
+  "homepage": "https://github.com/addonline/pack-memcached",
+  "author": "Romain THERRAT (AddOnline)",
+  "description": "Memcached checks",
+  "contributors": [
+  {
+    "name": "Romain THERRAT (AddOnline)",
+    "email": "romain42@gmail.com"
+  }
+  ],
+  "repository": "https://github.com/addonline/pack-memcached",
+    "keywords": [
+    "pack",
+    "database",
+    "memcached"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
 }
+
