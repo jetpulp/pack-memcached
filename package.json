@@ -9,6 +9,10 @@
   {
     "name": "Romain THERRAT (AddOnline)",
     "email": "romain42@gmail.com"
+  },
+  {
+    "name": "Jean Gabès",
+    "email": "naparuba@gmail.com"
   }
   ],
   "repository": "https://github.com/addonline/pack-memcached",
