@@ -5,5 +5,10 @@
 
 "path":"databases/",
 
-"macros":{}
+"macros": {
+    "_MEMCACHED_ADDRESS": {
+        "type":"string",
+        "description":"The address of the memcached server. Defaults to HOSTADDRESS."
+    }
+}
 }
